@@ -1,0 +1,32 @@
+_repo: Sketches-and-Studies-in-Italy-and-Greece-CompleteSeries-I-II-and-III_18893
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Symonds, John Addington
+    alias: Symonds, J. A. (John Addington)
+    birthdate: 1840
+    deathdate: 1893
+    gutenberg_agent_id: '1504'
+    url: http://www.gutenberg.org/2009/agents/1504
+    wikipedia: http://en.wikipedia.org/wiki/John_Addington_Symonds
+description: ''
+gutenberg_issued: '2006-07-22'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '18893'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Italy -- Description and travel'
+- !lcsh 'Greece -- Description and travel'
+- !lcc 'DF'
+- !lcc 'DG'
+title: 'Sketches and Studies in Italy and Greece, Complete
+
+  Series I, II, and III'
+url: http://www.gutenberg.org/ebooks/18893
